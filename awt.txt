@@ -1,0 +1,7 @@
+Bank managment system
+
+Signup class-name,fathername,gender,dob,email,martisl status,address,city,state pin code
+page 2--additional information religion,categorey,income,quliafiction,occupation,pan,aadhar,senior citizen,existing account
+page 3-account details -account type savin,cardnumber,pin,service required
+
+atm machine
